@@ -1,4 +1,4 @@
-<h3 align="center">Aura Exchange PCM</h3>
+<h3 align="center">TEMPLATE ONLY! NOT FOR PRODUCTION USE</h3>
   <p align="center">
 Private Collection Marketplace
 
